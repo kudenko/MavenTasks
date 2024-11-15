@@ -8,9 +8,8 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>util</module>
     <module>app</module>
-    <module>constant</module>
+    <module>shared</module>
   </modules>
 
   <name>MavenTasks</name>
