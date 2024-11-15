@@ -2,6 +2,6 @@ package utils;
 
 public class PrintModule {
     public static void print(String printString) {
-        System.out.printf(printString);
+        System.out.println(printString);
     }
 }

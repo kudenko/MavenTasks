@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.example</groupId>
-        <artifactId>MavenTasks</artifactId>
+        <artifactId>shared</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
